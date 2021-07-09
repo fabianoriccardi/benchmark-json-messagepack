@@ -1,0 +1,11 @@
+name,deserTimeJson,deserTimeMsgPack,serTimeJson,serTimeMsgPack,serSpaceJson,serSpaceMsgPack
+obj int,226,184,298,115,48,35
+array string,137,109,83,46,74,58
+array int,100,62,112,34,45,25
+obj null,27,19,16,5,12,6
+obj random,6520,5297,2182,648,1970,1718
+Msgpack,46,30,33,14,27,18
+HA,962,687,611,185,586,509
+json.org,684,517,365,124,360,304
+WoT,443,326,276,88,266,229
+Tasmota,5325,4365,1359,484,1302,1044
